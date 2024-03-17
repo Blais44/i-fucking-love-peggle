@@ -1,0 +1,8 @@
+{
+    "name": "Peggle Style Meter",
+    "version_number": "1.0.0",
+    "description": "You will need Announcer_dill-1.0.1 for this mod to work. A friend of mine suggested this idea and decided to make it real lol. Look in the [[README.md]] in C:\Users\[[user]]\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ULTRAKILL\profiles\[[profile]]\plugins\PeggleKill for instructions.",
+    "dependencies": [
+        "doctorpill-Announcer_dill-1.0.1"
+    ]
+}

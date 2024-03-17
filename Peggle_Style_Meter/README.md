@@ -1,0 +1,2 @@
+This mod is based on the announcer mod doctorpill has made. I only added these sounds based on the instructions he gave for his mods. The contents of this folder (specifically the .wav files) need to be moved to C:\Program Files(x86)\Steam\steamapps\common\ULTRAKILL\ULTRAKILL_Data\Audio for the mod to work.
+Have fun. ^^
